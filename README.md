@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @hanmilo
-- 👀 I’m interested in building tools to help free people's time from work
+- 👋 <b>Hello there, I’m @hanmilo</b>
+
+- ⭐ I’m interested in building tools to help free people's time from work
 - 🌱 I’m currently learning Swift & still new to it
-- 💞️ I’m open to collaboration
+- 🙌 I’m open to collaboration
+- 👷 My background is in Electrical Engineering with experience in the defence manufacturing industry.
 - 📫 hanmilo@gmail.com
 - ⚡ Fun fact: While working in Hanahan, S. Carolina, my friend who's decades older than I am & an avid hunter shared some wisdom,
   "Let me tell you something: You know, deer are lazy. If there's a path in the forest, the deer will take it. They do not like to waddle through the bushes--it's noisy & harder, although they get concealed. I'd make a path whenever I hunt & wait for them."
