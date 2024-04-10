@@ -1,6 +1,6 @@
 - 👋 <b>Hello there, I’m @hanmilo</b>
 
-- ⭐ I'm here to my childhood love for creating things with coding
+- ⭐ I'm here to revive my childhood love for creating things with coding
 - 🌱 Currently learning Swift & still new to it
 - 🙌 Definitely open to collaboration
 - 👷 My background is in Electrical Engineering with experience in the defence manufacturing industry.
