@@ -1,8 +1,8 @@
 - 👋 <b>Hello there, I’m @hanmilo</b>
 
-- ⭐ Reviving my childhood love for creating things with coding
+- ⭐ I'm here to my childhood love for creating things with coding
 - 🌱 Currently learning Swift & still new to it
-- 🙌 I’m open to collaboration
+- 🙌 Definitely open to collaboration
 - 👷 My background is in Electrical Engineering with experience in the defence manufacturing industry.
 - 📫 Discord: @hanmilo
 - ⚡ Fun fact: While working in Hanahan, S. Carolina, my friend who's decades older than I am & an avid hunter shared some wisdom,
