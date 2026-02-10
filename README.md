@@ -1,7 +1,7 @@
 - 👋 <b>Hello there, I’m dean</b>
 
 - ⭐ I'm here to revive my childhood love for creating things with coding
-- 🌱 Currently learning Ruby and Swift
+- 🌱 Currently learning Swift
 - 🙌 Definitely open to collaboration although I'm still learning
 - 👷 My background is in Electrical Engineering with experience in the defence manufacturing industry
 - 📫 Discord: <hanmilo.>
